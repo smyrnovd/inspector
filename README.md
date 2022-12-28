@@ -1,4 +1,4 @@
-# ethogram <img src="https://i.imgur.com/YWMAUVL.png" alt="alt text" width="30" height="30">
+# Inspector <img src="https://i.imgur.com/YWMAUVL.png" alt="alt text" width="30" height="30">
 
 Telegram bot for ethOS! Feel free to use it by adding `@ethogramBot` to a group, or chatting with it directly.
 
